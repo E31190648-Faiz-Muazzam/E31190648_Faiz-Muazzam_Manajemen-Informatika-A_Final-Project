@@ -1,4 +1,4 @@
-package Tampilan;
+package SI_Laundry;
 /*import komponen dari SQL agar proses pada database dapat dilakukan*/
 import java.sql.*;
 import javax.swing.JOptionPane;
